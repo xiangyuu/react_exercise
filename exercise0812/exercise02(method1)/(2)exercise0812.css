@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    height: 800px;
+    border: solid 1px black;
+    margin-right: -10px;
+}
+.box{
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    background-color: yellow;
+    border: solid 1px green;
+}
+#container > i {
+    width: 150px;
+    margin-right: 10px;
+}
+
+

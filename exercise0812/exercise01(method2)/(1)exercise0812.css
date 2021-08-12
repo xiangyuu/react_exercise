@@ -3,19 +3,19 @@
     padding: 0;
 }
 #container{
-    padding: 30px;
+    
     height: 300px;
     width: 300px;
-    border:  solid 1px red;
+    border:solid 1px red;
     margin: 0 auto;
+    word-break: keep-all;
+    
 }
-/* .btnNum{
+.btnNum{
    margin: 10px;
    border: 0;
    background-color: #fff;
-} */
-
-.spanABC{
-    margin: 10px;
 }
+
+
 
