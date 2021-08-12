@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    padding: 30px;
+    height: 300px;
+    width: 300px;
+    border:  solid 1px red;
+    margin: 0 auto;
+}
+/* .btnNum{
+   margin: 10px;
+   border: 0;
+   background-color: #fff;
+} */
+
+.spanABC{
+    margin: 10px;
+}
+
