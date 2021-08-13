@@ -1,0 +1,25 @@
+.list{
+    position: relative;
+}
+#inputMsg{
+    margin: 0 auto;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform:translate(-50%,0) ;
+    z-index: 999;
+
+}
+#btn{
+    margin: 10px 45%;
+    width: 100px;
+}
+
+.show{
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
