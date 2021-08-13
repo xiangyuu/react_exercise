@@ -1,0 +1,31 @@
+#register{
+    background-color: #84804B;
+    border-radius: 5px;
+    z-index: 999;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 6px 5px 10px;
+    
+    
+}
+.formInput{
+    padding: 10px;
+}
+.formInput:nth-child(4){
+    border-radius: 3px;
+    width: 60px;
+    padding: 10px;
+    background-color: #698466;
+    box-shadow:3px 3px 3px;
+}
+.show{
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
